@@ -347,5 +347,5 @@ footer a {
     bottom: 3%;
     font-size: 80px;
     color: #fff;
-    transition: 1s;
+    /* transition: 1s; */
 }
